@@ -1,8 +1,10 @@
 langchain
 langgraph
 langsmith
+langchain-community
 python-dotenv
 langchain-groq
 langchain-tavily
 langchain-mcp-adapters
 mcp
+langgraph-cli[inmem]
