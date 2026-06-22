@@ -9,10 +9,13 @@ langchain-mcp-adapters
 mcp
 langgraph-cli[inmem]
 langchain-tavily
-torch
-transformers
 langchain-text-splitters
 scikit-learn
 numpy
 pillow
 requests
+torch
+transformers 
+sentence-transformers 
+torchvision
+torchaudio
