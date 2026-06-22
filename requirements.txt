@@ -9,3 +9,6 @@ langchain-mcp-adapters
 mcp
 langgraph-cli[inmem]
 langchain-tavily
+torch
+transformers
+langchain-text-splitters
