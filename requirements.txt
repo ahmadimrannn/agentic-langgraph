@@ -12,3 +12,7 @@ langchain-tavily
 torch
 transformers
 langchain-text-splitters
+scikit-learn
+numpy
+pillow
+requests

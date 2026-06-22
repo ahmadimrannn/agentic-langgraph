@@ -15,7 +15,11 @@ dependencies = [
     "langgraph-cli[inmem,inmen]>=0.4.30",
     "langsmith>=0.8.15",
     "mcp>=1.28.0",
+    "numpy>=2.4.6",
+    "pillow>=12.2.0",
     "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
     "torch>=2.12.1",
     "transformers>=5.12.1",
 ]
