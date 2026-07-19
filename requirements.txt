@@ -19,3 +19,4 @@ transformers
 sentence-transformers 
 torchvision
 torchaudio
+langchain-google-genai
