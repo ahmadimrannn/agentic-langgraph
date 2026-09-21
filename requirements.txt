@@ -20,3 +20,4 @@ sentence-transformers
 torchvision
 torchaudio
 langchain-google-genai
+huggingface-hub
